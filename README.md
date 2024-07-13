@@ -1,3 +1,4 @@
+![logo](https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png)
 <h1 align="center">Hi 👋, I'm Anjali Gautam</h1>
 <h3 align="center">Pursuing an MCA, I've developed strong data analysis skills through internships and projects like a Zomato analysis using Excel, Power BI, SQL, and Tableau. Certified in data analysis, I excel at deriving insights from complex datasets and aim to advance my career in data science.</h3>
 
