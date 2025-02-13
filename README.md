@@ -1,6 +1,13 @@
-![logo](https://www.canva.com/design/DAGb6JmfQrE/qLYYXOTf6bAC-yxwXh0eqg/view?utm_content=DAGb6JmfQrE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8922024f36 )
+![logo](Black & White Modern Minimalist Data Analyst LinkedIn Banner (3) )
 <h1 align="center">Hi 👋, I'm Anjali Gautam</h1>
-<h3 align="center">Pursuing an MCA, I've developed strong data analysis skills through internships and projects like a Zomato analysis using Excel, Power BI, SQL, and Tableau. Certified in data analysis, I excel at deriving insights from complex datasets and aim to advance my career in data science.</h3>
+<h3 align="center">👋 Hi there!
+I’m a passionate Data Enthusiast with an MCA degree and hands-on experience in Data Analytics. I have completed a Data Analytics internship and am currently pursuing a Data Science internship to deepen my skills in data analysis, machine learning, and cloud technologies.
+
+🔹 Skills: SQL | Python | Power BI | Tableau | AWS | Data Visualization
+🔹 Interests: Exploring large datasets, uncovering insights, and building data-driven solutions.
+
+🚀 Always eager to learn and collaborate on exciting projects! Let's connect. 😊
+</h3>
 
 <img align="right" alt="Data Analysis" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
