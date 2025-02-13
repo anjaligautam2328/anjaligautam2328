@@ -1,9 +1,11 @@
 ![logo](Black & White Modern Minimalist Data Analyst LinkedIn Banner (3) )
 <h1 align="center">Hi 👋, I'm Anjali Gautam</h1>
 <h3 align="center">👋 Hi there!
-I’m a passionate Data Enthusiast with an MCA degree and hands-on experience in Data Analytics. I have completed a Data Analytics internship and am currently pursuing a Data Science internship to deepen my skills in data analysis, machine learning, and cloud technologies.
+I’m a passionate Data Enthusiast with an MCA degree and hands-on experience in Data Analytics. 
+  I have completed a Data Analytics internship and am currently pursuing a Data Science internship to deepen my skills in data analysis, machine learning, and cloud technologies.
 
 🔹 Skills: SQL | Python | Power BI | Tableau | AWS | Data Visualization
+
 🔹 Interests: Exploring large datasets, uncovering insights, and building data-driven solutions.
 
 🚀 Always eager to learn and collaborate on exciting projects! Let's connect. 😊
